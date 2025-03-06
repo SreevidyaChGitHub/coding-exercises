@@ -13,6 +13,8 @@ Ex:- List of string :         ["", "O", "X", "O", "", "O", "X", "O", ""]
      Corresponding Indexes :    0   1    2    3    4   5    6    7   8
 
   NOTE: The change I made to this exercise is allowing the user to input the winlength size of this board. The board size is made dynamic here. 
+# The image of the board is attached in this repository.
+# You can find it in the 'images' folder as 'Tic-tac-toe.png'.
 
 # Solution 
 
