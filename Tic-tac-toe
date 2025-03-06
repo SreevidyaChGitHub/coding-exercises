@@ -10,6 +10,9 @@ For a board state to be considered three in a row for O all three squares in the
 The current board state is sent as the input variable 'board' for each of the level methods. In 'board' you will get all nine squares starting from bottom left, with ascending indexes from left to right, 
 and the last and ninth square in the top right of the board.
 
+**Game board**
+![Screenshot](https://github.com/SreevidyaChGitHub/coding-exercises/blob/main/images/Tic-tac-toe.png)</br>
+
 # Solution 
 
          * Level 3 - Does circles / "O" have three in a row? The input 'board'
