@@ -20,12 +20,14 @@ Ex:- List of string :         ["", "O", "X", "O", "", "O", "X", "O", ""]
 
 This solution works for any size of winlength. The winlenth can be provided by the user through this method. 
 
-         /**
-         * Level 3 - Does circles / "O" have three in a row? The input 'board'
-         * parameter represent all nine squares, the current board state, in a
-         * list with the first index, zero, in the bottom left (x=0, y=0). Index
-         * 1 is (x=1, y=0), index 2 is (x=2, y=0), index 3 is (x=0, y=1) and so
-         * forth. */
+         /*
+          Level 3 - Does circles / "O" have three in a row? The input 'board'
+          parameter represent all nine squares, the current board state, in a
+          list with the first index, zero, in the bottom left (x=0, y=0). Index
+          1 is (x=1, y=0), index 2 is (x=2, y=0), index 3 is (x=0, y=1) and so
+          forth. 
+         */
+
         public bool Level3DoesOHave3InARow(List<string> board, winLength)
         {
             // Write your code here
