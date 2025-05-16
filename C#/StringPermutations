@@ -1,5 +1,4 @@
-/*
-STRING PERMUTATIONS
+# STRING PERMUTATIONS (Exercise sourced from FutureSkills)
 
 Welcome to the world of cryptography! You have been recruited by the top-secret agency and are now part of a team responsible for creating unbreakable codes to secure confidential information.
 Your team leader, Ada, has given you the task of creating a program that can generate a secret code that can be used to communicate top-secret messages between agents. The code needs to be generated from an array
@@ -12,8 +11,8 @@ Input array: ["ab", "ba", "aa"].
 Correct answer: "aab" 
 The reason the answer is "aab" is that all input strings can be created by picking letters from the answer string in any order. The letters 'a' and 'b' are used twice in the input strings, and the 
 shortest string that contains all these letters is "aab", which is sorted from a to z.
-*/
-/*SOLUTION*/
+
+# SOLUTION
 
 using API;
 using System;
