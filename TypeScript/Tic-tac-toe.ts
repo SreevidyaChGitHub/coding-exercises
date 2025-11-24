@@ -1,6 +1,6 @@
-# Tic-tac-toe (Exercise sourced from Future Skill)
+/* Tic-tac-toe (Exercise sourced from Future Skill)
 
-## PROBLEM
+# PROBLEM
 This is an exercise centered around tic-tac-toe, a common three-in-a-row children's game.
 Level 3 :: Three in a row for O?
 
@@ -12,14 +12,13 @@ and the last and ninth square in the top right of the board.
 Ex:- List of string :         ["", "O", "X", "O", "", "O", "X", "O", ""]
      Corresponding Indexes :    0   1    2    3    4   5    6    7   8
 
-  NOTE: The change I made to this exercise is allowing the user to input the winlength size of this board. The board size is made dynamic here. 
+# NOTE: The change I made to this exercise is allowing the user to input the winlength size of this board. The board size is made dynamic here. 
 # The image of the board of size 3*3 is attached in this repository.
 # You can find it in the 'images' folder as 'Tic-tac-toe.png'.
-
-# SOLUTION 
-
-This solution works for any size of winlength. The winlenth can be provided by the user through this method. 
-       /**
+*/
+// SOLUTION 
+// This solution works for any size of winlength. The winlenth can be provided by the user through this method. 
+    /*
          * Level 3 - Does circles / "O" have three in a row? The input 'board'
          * parameter represent all nine squares, the current board state, in a
          * list with the first index, zero, in the bottom left (x=0, y=0). Index
