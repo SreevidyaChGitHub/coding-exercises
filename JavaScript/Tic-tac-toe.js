@@ -1,6 +1,6 @@
-# Tic-tac-toe (Exercise sourced from Future Skill)
+/*  Tic-tac-toe (Exercise sourced from Future Skill)
 
-## PROBLEM
+# PROBLEM
 This is an exercise centered around tic-tac-toe, a common three-in-a-row children's game.
 Level 3 :: Three in a row for O?
 
@@ -15,8 +15,8 @@ Ex:- List of string :         ["", "O", "X", "O", "", "O", "X", "O", ""]
 ## NOTE: The change I made to this exercise is allowing the user to input the winlength size of this board. The board size is made dynamic here. 
 # The image of the board of size 3*3 is attached in this repository.
 # You can find it in the 'images' folder as 'Tic-tac-toe.png'.
-
-# SOLUTION 
+*/
+// SOLUTION 
 
 This solution works for any size of winlength. The winlenth can be provided by the user through this method. 
 
